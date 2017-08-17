@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>tcom_global_header</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>HelloWorldTemplates/AlertCustomerIRP</members>
+        <members>HelloWorldTemplates/CaseClosureUpdateAlert2Customer</members>
+        <members>HelloWorldTemplates/CaseUpdateAlert2Customer</members>
+        <members>HelloWorldTemplates/OrderCreationUpdateAlert2Customer</members>
+        <name>EmailTemplate</name>
+    </types>
+    <version>37.0</version>
+</Package>

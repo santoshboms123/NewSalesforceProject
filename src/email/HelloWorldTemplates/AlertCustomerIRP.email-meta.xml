@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>AlertCustomerIRP</name>
+    <style>none</style>
+    <subject>Welcome to Telstra Network {!Contact.LastName}</subject>
+    <textOnly>Template Title
+
+ITL Hello World
+
+
+Hi {!Contact.FirstName} {!Contact.LastName},
+
+
+Welcome to Telstra Network. Please click  here to activate your international roaming pass.
+
+Please Click on {!Case.CaseNumber}.
+
+
+Best regards,
+
+Lyndon Dowling
+
+Case Manager – Telstra Operations
+
+My Account
+Log in or register now
+
+Crowdsupport®
+How can we help you?
+
+Telstra 24x7 App®
+Download now
+
+
+Privacy | Our Customer Terms
+
+Please do not reply to this email as we are unable to respond. The contents of this email are strictly confidential. If you are not the intended recipient, any use, disclosure or copying of this email (including any attachments) is unauthorised and prohibited. If you have received this email in error, please delete the message from your system. We’re aiming to improve how we interact with you online. If you have any suggestions, we’d love to hear them - just let us know on our CrowdSupport® forum (login requiblue). Privacy: protecting your privacy is important to us. View our Privacy Statement online. &apos;T logo&apos; and CrowdSupport are registeblue trade marks of Telstra Corporation Limited, ABN 33 051 775 556.</textOnly>
+    <type>custom</type>
+</EmailTemplate>

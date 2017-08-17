@@ -1,0 +1,12 @@
+<apex:component >
+<div class="page-header alpha omega">
+            <div class="grid_14 alpha omega section-header">
+                 <div class="unauth-heading login-heading gravur">
+                     TELSTRA ITL
+                 </div>
+                 <div class="sub-unauth-heading login-heading gravur">
+                     SALESFORCE EXPERIMENT
+                 </div>
+            </div>
+        </div>
+</apex:component>
